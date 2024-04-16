@@ -49,7 +49,7 @@
 
   <br>
   <br>
-  <br>
+
 
   # 🗒️ Channel
   <br>
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-# BOJ stats
+# [BOJ](https://www.acmicpc.net/user/qazplm12093) stats
 
 <br>
 
@@ -70,7 +70,6 @@
 
 
 
-<br>
 <br>
 <br>
 
