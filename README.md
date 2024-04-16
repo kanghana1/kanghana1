@@ -50,6 +50,13 @@
   <br>
   <br>
 
+# 👋 Activities
+
+- UMC 4th web part (23.3 ~ 8)
+
+<br>
+<br>
+<br>
 
   # 🗒️ Channel
   <br>
