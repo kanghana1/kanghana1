@@ -53,7 +53,7 @@
 # 👋 Activities
 
 - UMC 4th web part (23.3 ~ 8)
-- Hanhwa System swcamp (24.5 ~ 11)
+- Hanhwa System swcamp _ Backend (24.5 ~ 11)
 
 <br>
 <br>
