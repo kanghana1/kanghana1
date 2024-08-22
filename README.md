@@ -76,6 +76,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazplm12093)](https://solved.ac/qazplm12093/)
 
+<br>
+<br>
+<br>
+
+# Most Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghana1)](https://github.com/kanghana1/github-readme-stats)
 
 
 <br>
