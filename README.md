@@ -53,6 +53,7 @@
 # 👋 Activities
 
 - UMC 4th web part (23.3 ~ 8)
+- UMC 8th springboot part (25.3 ~ 8)
 
 
 <br>
